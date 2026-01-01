@@ -1,2 +1,1 @@
-# pypinger
-A simple python tool that pings servers.
+`pypinger` is a simple python tool for pinging servers. It requires no extra parameters.
