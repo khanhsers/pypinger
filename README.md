@@ -1,8 +1,4 @@
-`pypinger` is a simple python tool for pinging servers. It requires no extra parameters.
+`pypinger` is a simple python tool for pinging servers.
 
-On running `pypinger`, it will prompt you for:
- - Server to ping
- - Ping timeout
- - Number of requests
-
-Press ENTER for defaults, which will be listed.
+Usage: python pypinger.py [url] [times] [timeout]
+Example: python pypinger.py https://google.com 5 3
